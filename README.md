@@ -1,5 +1,5 @@
 ## Proyek worldomination
 # Author
-Lukas Vandohop,lucasshenzo@gmail.com 
+# Lukas Vandohop /  lucashenzo@rocketmail.com
 #115610018
 ===============
